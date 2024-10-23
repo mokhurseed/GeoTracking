@@ -48,7 +48,7 @@ afterEvaluate {
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'com.innov'
                 artifactId = 'geo_tracking'
-                version = '1.0.0'
+                version = '1.0.1'
             }
         }
     }
