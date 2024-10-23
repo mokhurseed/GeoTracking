@@ -1,0 +1,3 @@
+include ':geo-tracking'
+include ':app'
+rootProject.name = "GeoTracking"
